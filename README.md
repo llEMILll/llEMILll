@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llEMILll
-- 👀 I’m interested in development
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects to continue learnig.
 - 📫 How to reach me emilwillian2000@gmail.com
